@@ -4,7 +4,10 @@ Unique Molecular Identifiers, or UMIs for short, are molecular barcodes which ca
 
 UMIs are useful because PCR amplification, which is often required before sequencing, could introduce biases that would be impossible to detect otherwise. For example, certain sequences could have unique properties that make them more likely to amplify which would make accurate quantification difficult. Other methods have been introduced to remove these biases (i.e., de-duplication protocols), but they are usually not as efficient as UMIs. 
 
-The figure below illustrates how adding a UMI can help us quantify the actual number of times a particular sequence was encountered.  
+The figure below illustrates how adding a UMI can help us quantify the actual number of times a particular sequence was encountered.
+
+
+![Image1](img/image1.png)
 
 
 Another use case for UMIs is accurate variant detection. Note that PCR amplification is not perfect, and amplification could introduce variants which could be called in downstream analysis as “real” variants. 
