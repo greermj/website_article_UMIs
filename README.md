@@ -15,6 +15,8 @@ Another use case for UMIs is accurate variant detection. Note that PCR amplifica
 That is, data without UMIs cannot distinguish between sequencing errors and variants, but by adding a UMI prior to amplification we can determine whether the variant is real. For example, if all the reads in a “read family” (i.e., same UMI barcode) have the same variant then it is likely real. 
 
 
+![Image2](img/image2.png)
+
 
 Library prep typically requires a PCR amplification step which has the potential to introduce bias (especially for longer sequences, sequences with a high amount of GC content, and if you have low amounts of starting material)
 
