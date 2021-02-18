@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # What are Unique Molecular Identifiers? 
 
 Unique Molecular Identifiers, or UMIs for short, are molecular barcodes which can be added to the sequences within a sequencing library before PCR amplification. 
