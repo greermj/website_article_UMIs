@@ -1,6 +1,3 @@
----
-title-heading: false
----
 
 # What are Unique Molecular Identifiers? 
 
